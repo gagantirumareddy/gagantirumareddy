@@ -62,6 +62,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/gagantirumareddy/gagantirumareddy/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation"/>
+</p>
+
+---
+
 ## 🧩 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/gagantirumareddy?theme=dark&font=Karma&ext=contest"/>
