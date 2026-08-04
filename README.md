@@ -51,15 +51,15 @@
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gagantirumareddy&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gagantirumareddy&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gagantirumareddy&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=gagantirumareddy&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gagantirumareddy&theme=react-dark&hide_border=true"/>
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
