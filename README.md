@@ -65,11 +65,20 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/gagantirumareddy/gagantirumareddy/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/gagantirumareddy/gagantirumareddy/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/gagantirumareddy/gagantirumareddy/output/github-contribution-grid-snake.svg">
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/gagantirumareddy/gagantirumareddy/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
-
 ## 🧩 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/gagantirumareddy?theme=dark&font=Karma&ext=contest"/>
